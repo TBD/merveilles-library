@@ -2,6 +2,7 @@
 collection of links
 
 
-| Name     | Type     | Repo                                               | Author                                  |
-| :-       | :-       | :-                                                 | :-                                      | 
-| Dotgrid  | Vector   | [Source](http://github.com/hundredrabbits/Dotgrid) | [@neauoire](http://github.com/neauoire) |
+| Name                  | Type     | Repo                                                   | Author                                    |
+| :-                    | :-       | :-                                                     | :-                                        | 
+| Dotgrid               | Vector   | [Source](https://github.com/hundredrabbits/Dotgrid)    | [@neauoire](https://github.com/neauoire)  |
+| DataMatrix Encoder    | SVG      | [Web](https://plugins.ro/dm)                           | [@tbd](https://github.com/tbd)            |
